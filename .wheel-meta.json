@@ -1,0 +1,22 @@
+{
+  "wheel_id": 709,
+  "structure": "umbrella",
+  "slug": "financebrokercanberra-151",
+  "project": "mortgage-broker-canberra-glossary-89e416bf86b850524bebd13dcfa3c",
+  "parent_t1_ref": "financebrokercanberra-013",
+  "node_role": "buffer",
+  "money_target": "financebrokercanberra.com.au",
+  "primary_kw": "mortgage broker canberra glossary",
+  "intended_url": "https://sitesau.github.io/financebrokercanberra-151/",
+  "tier": "T2",
+  "writeback_nonce": "e1715fc88505e133",
+  "links": [
+    {
+      "target_url": "https://mortgage-broker-canberra-financebrokercanberra-013-62eab6.gitlab.io/",
+      "anchor": "this mortgage broker canberra guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
